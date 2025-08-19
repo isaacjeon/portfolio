@@ -13,6 +13,8 @@ intro
 # Machine Learning Projects
 
 ## [Product Sales Forecasting](https://github.com/isaacjeon/product_sales_forecasting)
+<a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Product Sales Forecasting</a>
+
 ## [Student Depression Prediction](https://github.com/isaacjeon/depression-prediction)
 ## [SMS Spam Detection](https://github.com/isaacjeon/spam_detection)
 ## [News Classification](https://github.com/isaacjeon/news_classification)
