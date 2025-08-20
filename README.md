@@ -25,7 +25,7 @@ Specific tools, models, or techniques used are mentioned in each individual proj
 ***
 
 ### Product Sales Forecasting
-Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github Repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project Report</a><br>
+Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project Report</a><br>
 
 ***
 
@@ -34,17 +34,17 @@ This project builds a classification model to predict whether an individual is a
 
 The best-performing model was an SVM with a linear kernel, achieving a recall of 98.9% i.e. correctly identifying nearly all depressed individuals. This is especially valuable in real-world scenarios where minimizing false negatives is critical. Random Forest and XGBoost also provided feature importance values, helping to identify key contributors to model performance. Notably, age had the highest importance and showed a significant negative correlation with depression, indicating that younger individuals were more likely to be at risk.
 
-Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github Repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
+Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 ***
 
 ### SMS Spam Detection
-Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github Repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
+Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 ***
 
 ### News Classification
-Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github Repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
+Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 
 ## Tableau Dashboards
@@ -52,7 +52,7 @@ Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank
 ### Brazilian E-Commerce
 This project explores Brazilian e-commerce order data across several dimensions including customer and seller demographics, product categories, payment types, delivery logistics, and review scores. It utilizes **SQL** for data structuring, cleaning, and exploratory data analysis (EDA), and **Tableau** for building interactive dashboards for visualizing monthly sales performance, regional trends, delivery times, and customer purchasing behavior and satisfaction to uncover operational and marketing insights.
 
-Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank">Github Repository</a>, <a href="https://public.tableau.com/views/BrazilianE-Commerce_17547219521680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a><br>
+Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/BrazilianE-Commerce_17547219521680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
 ![](/assets/brazilian_ecommerce_dashboard.png)
 
@@ -61,6 +61,6 @@ Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank
 ### Japan Tourism
 This project builds a dashboard for visualization of Japan tourism data on a regional level collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay. The original Excel file was cleaned and restructured, before importing the data into **MySQL**. The tables were then unified and prepared for exploration using **Tableau**. The interactive dashboard enables identification and filtering of characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions.
 
-Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github Repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a><br>
+Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
 ![](/assets/japan_tourism_dashboard.png)
