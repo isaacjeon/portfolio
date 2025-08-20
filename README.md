@@ -6,6 +6,7 @@ intro
   - [Student Depression Prediction](#student-depression-prediction) - binary classification for predicting student depression
   - [SMS Spam Detection](#sms-spam-detection) - spam detection of text data using dimensionality reduction and clustering techniques
   - [News Classification](#news-classification) - categorizing news articles with matrix factorization and support vector classification
+
 ##### [Tableau Dashboards](#tableau-dashboards)
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis and visualization of Brazilian e-commerce order data 
   - [Japan Tourism](#japan-tourism) - Japan tourism segmentation across different categories on a regional level
@@ -50,6 +51,11 @@ This project explores Brazilian e-commerce order data across several dimensions 
 ### Japan Tourism
 - Tools: SQL, Tableau
 - Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github Repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a><br>
+
+|||
+|:-----|:-----|
+|Tools|SQL<br>Tableau|
+|Links|<a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github Repository</a><br><a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public Dashboard</a>|
 
 This project builds a dashboard for visualization of Japan tourism data on a regional level collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay. The original Excel file was cleaned and restructured, before importing the data into MySQL. The tables were then unified and prepared for exploration using Tableau. The interactive dashboard enables identification and filtering of characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions.
 
