@@ -5,7 +5,7 @@ A collection of data analytics and machine learning projects focused on explorat
   - [Product Sales Forecasting](#product-sales-forecasting) - forecasting retail product sales with time series data
   - [Student Depression Prediction](#student-depression-prediction) - binary classification for predicting student depression
   - [SMS Spam Detection](#sms-spam-detection) - spam detection of text data using dimensionality reduction and clustering techniques
-  - [News Classification](#news-classification) - categorizing news articles with matrix factorization and support vector classification
+  - [News Classification](#news-classification) - categorization of BBC news articles with non-negative matrix factorization and linear support vector classification
 
 **[Tableau Dashboards](#tableau-dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis and visualization of Brazilian e-commerce order data 
@@ -30,7 +30,7 @@ Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="
 ***
 
 ### Student Depression Prediction
-This project builds a classification model to predict whether an individual is at risk of depression based on factors such as age, gender, location, and work/study status. The workflow involved data cleaning, exploratory analysis, and training models using Random Forest, XGBoost, and Support Vector Machine (SVM).
+This project builds a classification model to predict whether an individual is at risk of depression based on factors such as age, gender, location, and work/study status. The workflow involved data cleaning, exploratory analysis, and training models using **Random Forest**, **XGBoost**, and **Support Vector Machine (SVM)**.
 
 The best-performing model was an SVM with a linear kernel, achieving a recall of 98.9% i.e. correctly identifying nearly all depressed individuals. This is especially valuable in real-world scenarios where minimizing false negatives is critical. Random Forest and XGBoost also provided feature importance values, helping to identify key contributors to model performance. Notably, age had the highest importance and showed a significant negative correlation with depression, indicating that younger individuals were more likely to be at risk.
 
@@ -44,8 +44,10 @@ Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Git
 ***
 
 ### News Classification
-Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
+This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification. The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model at 97.0%. This level of performance suggests that the model could be effectively applied to automate the classification of text data for tasks such as content organization, filtering, or topic-based recommendation systems.
+
+Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 ## Tableau Dashboards
 
