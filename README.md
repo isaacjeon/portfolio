@@ -1,12 +1,12 @@
 intro
 
 ### Table of Contents
-- [Machine Learning Projects](#machine-learning-projects)
+##### [Machine Learning Projects](#machine-learning-projects)
   - [Product Sales Forecasting](#product-sales-forecasting) - forecasting retail product sales with time series data
   - [Student Depression Prediction](#student-depression-prediction) - binary classification for predicting student depression
   - [SMS Spam Detection](#sms-spam-detection) - spam detection of text data using dimensionality reduction and clustering techniques
   - [News Classification](#news-classification) - categorizing news articles with matrix factorization and support vector classification
-- [Tableau Dashboards](#tableau-dashboards)
+##### [Tableau Dashboards](#tableau-dashboards)
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis and visualization of Brazilian e-commerce order data 
   - [Japan Tourism](#japan-tourism) - Japan tourism segmentation across different categories on a regional level
 
