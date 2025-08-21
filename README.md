@@ -1,6 +1,6 @@
 A collection of data analytics and machine learning projects focused on exploratory analysis, predictive modeling, and dashboard development.
 
-### Table of Contents
+## Table of Contents
 
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
@@ -12,7 +12,7 @@ A collection of data analytics and machine learning projects focused on explorat
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
   - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
 
-## Machine Learning Projects
+# Machine Learning Projects
 
 The following machine learning projects follow the workflow of data cleaning and processing, exploratory data analysis (EDA), and model training and evaluation. The code is written in **Python** using **Jupyter Notebook**.
 
@@ -73,7 +73,9 @@ These results suggest that dimensionality reduction and clustering methods can s
 
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
-## Tableau Dashboards
+***
+
+# Tableau Dashboards
 
 ### Brazilian E-Commerce
 This project explores Brazilian e-commerce order data across several dimensions including customer and seller demographics, product categories, payment types, delivery logistics, and review scores. It utilizes **SQL** for data structuring, cleaning, and exploratory data analysis (EDA), and **Tableau** for building interactive dashboards for visualizing monthly sales performance, regional trends, delivery times, and customer purchasing behavior and satisfaction to uncover operational and marketing insights.
@@ -94,3 +96,5 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/japan_tourism_dashboard.png" width="100%"/>
 </p>
+
+***
