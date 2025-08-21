@@ -56,6 +56,12 @@ The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model a
 
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
+<p align="center">
+  <img src="/assets/word_clouds.png" width="35%"/>
+  <img src="/assets/confusion_matrix_nmf.png" width="30%"/>
+  <img src="/assets/confusion_matrix_lsvc.png" width="30%"/>
+</p>
+
 ***
 
 ### SMS Spam Detection
