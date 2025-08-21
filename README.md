@@ -47,8 +47,8 @@ The best-performing model was an SVM with a linear kernel, achieving a recall of
 Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" style="height: 350px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" style="height: 265px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" style="height: 265px; width: auto;"/>
 </p>
 
 ***
