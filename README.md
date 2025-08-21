@@ -1,6 +1,7 @@
 A collection of data analytics and machine learning projects focused on exploratory analysis, predictive modeling, and dashboard development.
 
 ### Table of Contents
+
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
   - [Student Depression Prediction](#student-depression-prediction) - identification of student mental health risk with binary classification
@@ -20,12 +21,21 @@ Core libraries used across all projects include:
 - **matplotlib** and **seaborn** for visualization
 - **scikit-learn** for modeling and evaluation
 
-Specific tools, models, or techniques used are mentioned in each individual project description.
+Tools, models, and techniques specific to each project are mentioned in their respective descriptions.
 
 ***
 
 ### Product Sales Forecasting
-Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project Report</a><br>
+
+This project focuses on forecasting daily sales of a style of work pants utilizing real-world sales data provided by a small clothing retailer. The goal is to identify trends, seasonality, and other patterns in the data to forecast sales up to 28 days ahead. Results showed that even relatively small datasets may still yield meaningful insights when paired with appropriate models and domain-informed feature engineering.
+
+Exploratory analysis included statistical methods such as correlation analysis and STL decomposition, along with visualization tools like ACF/PACF plots and KDEs. Models were developed using four approaches: **Holt-Winters**, **SARIMAX**, Meta's **Prophet**, and **LightGBM**. To improve model performance, several features were engineered based on calendar dates (e.g. day of week, month, holidays), price changes, as well as lag variables and moving averages of previous sales. Models were evaluated using expanding window cross-validation to simulate real-world forecasting scenarios.
+
+The seasonal-trend decomposition revealed a nonlinear trend, with a significant increase in sales between 2020 and 2021, followed by a plateau through 2023 and a slight decline into 2024. Seasonal spikes were observed during the Christmas and back-to-school shopping periods. The residual component showed increased noise between 2020 and 2023, potentially reflecting external factors not fully captured by typical seasonal or trend components. For instance, during this period, store employees observed shifts in purchasing behavior following the COVID-19 pandemic as well as changes in fashion among younger consumers influenced by social media trends.
+
+The Prophet model produced the most accurate forecasts based on root mean square error (RMSE), while LightGBM offered strong performance with significantly faster training times. An ensemble of all four models yielded improved and more stable results. Although daily forecasts proved challenging with limited data, performance improved at lower granularities, suggesting practical value for small retailers who may not have the luxury of large amounts of high quality data.
+
+Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project report</a><br>
 
 ***
 
@@ -40,7 +50,9 @@ Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_bla
 
 ### News Classification
 
-This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification. The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model at 97.0%. This level of performance suggests that the model could be effectively applied to automate the classification of text data for tasks such as content organization, filtering, or topic-based recommendation systems.
+This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification.
+
+The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model at 97.0%. This level of performance suggests that the model could be effectively applied to automate the classification of text data for tasks such as content organization, filtering, or topic-based recommendation systems.
 
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
