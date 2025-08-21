@@ -3,9 +3,9 @@ A collection of data analytics and machine learning projects focused on explorat
 ### Table of Contents
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
-  - [Student Depression Prediction](#student-depression-prediction) - binary classification of student mental health risk
-  - [News Classification](#news-classification) - topic classification of BBC news articles using NLP techniques
-  - [SMS Spam Detection](#sms-spam-detection) - spam classification using dimensionality reduction and clustering
+  - [Student Depression Prediction](#student-depression-prediction) - identification of student mental health risk with binary classification
+  - [News Classification](#news-classification) - categorization of BBC news articles using NLP techniques
+  - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
 
 **[Tableau Dashboards](#tableau-dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
