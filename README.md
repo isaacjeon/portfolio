@@ -2,14 +2,14 @@ A collection of data analytics and machine learning projects focused on explorat
 
 ### Table of Contents
 **[Machine Learning Projects](#machine-learning-projects)**
-  - [Product Sales Forecasting](#product-sales-forecasting) - forecasting retail product sales with time series data
-  - [Student Depression Prediction](#student-depression-prediction) - binary classification for predicting student depression
-  - [SMS Spam Detection](#sms-spam-detection) - spam detection of text data using dimensionality reduction and clustering techniques
-  - [News Classification](#news-classification) - categorization of BBC news articles with non-negative matrix factorization and linear support vector classification
+  - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
+  - [Student Depression Prediction](#student-depression-prediction) - binary classification of student mental health risk
+  - [SMS Spam Detection](#sms-spam-detection) - spam classification using dimensionality reduction and clustering
+  - [News Classification](#news-classification) - topic classification of BBC news articles using NLP techniques
 
 **[Tableau Dashboards](#tableau-dashboards)**
-  - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis and visualization of Brazilian e-commerce order data 
-  - [Japan Tourism](#japan-tourism) - Japan tourism segmentation across different categories on a regional level
+  - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
+  - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
 
 ## Machine Learning Projects
 
@@ -39,6 +39,13 @@ Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_bla
 ***
 
 ### SMS Spam Detection
+
+This project involves the use of unsupervised learning techniques for dimensionality reduction in detecting SMS spam messages. The text data was first converted to a Bag-of-Words (BoW) representation, then transformed using three *dimensionality reduction* methods: **TruncatedSVD**, **Non-Negative Matrix Factorization (NMF)**, and **Uniform Manifold Approximation and Projection (UMAP)**. Each reduced dataset was evaluated using **Logistic Regression** for *classification* and **K-Means** for *clustering*.
+
+Of these methods, NMF proved to be the most effective overall (precision = 98.3%, recall = 88.5%). It achieved classification performance comparable to the baseline logistic regression model (precision = 96.7%, recall = 89.3%), reduced the original 2562-dimensional feature space to just 3 dimensions, and resulted in clear clustering. NMF also produced interpretable latent topics, including one that clearly aligned with spam messages.
+
+These results suggest that dimensionality reduction and clustering methods can support not just spam detection, but also tasks such as topic discovery, pattern identification, content grouping visualization, and outlier detection.
+
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 ***
