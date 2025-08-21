@@ -4,7 +4,7 @@ A collection of data analytics and machine learning projects focused on explorat
 
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
-  - [Student Depression Prediction](#student-depression-prediction) - identification of student mental health risk with binary classification
+  - [Depression Prediction](#depression-prediction) - identification of mental health risk with binary classification
   - [News Classification](#news-classification) - categorization of BBC news articles using NLP techniques
   - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
 
@@ -39,12 +39,17 @@ Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="
 
 ***
 
-### Student Depression Prediction
+### Depression Prediction
 This project builds a classification model to predict whether an individual is at risk of depression based on factors such as age, gender, location, and work/study status. The workflow involved data cleaning, exploratory analysis, and training models using **Random Forest**, **XGBoost**, and **Support Vector Machine (SVM)**.
 
-The best-performing model was an SVM with a linear kernel, achieving a recall of 98.9% i.e. correctly identifying nearly all depressed individuals. This is especially valuable in real-world scenarios where minimizing false negatives is critical. Random Forest and XGBoost also provided feature importance values, helping to identify key contributors to model performance. Notably, age had the highest importance and showed a significant negative correlation with depression, indicating that younger individuals were more likely to be at risk.
+The best-performing model was an SVM with a linear kernel, achieving a recall of 98.9% i.e. correctly identifying nearly all depressed surveyees. This is especially valuable in real-world scenarios where minimizing false negatives is critical. Random Forest and XGBoost also provided feature importance values, helping to identify key contributors to model performance. Notably, age had the highest importance and showed a significant negative correlation with depression, indicating that younger individuals were more likely to be at risk.
 
 Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
+
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" style="height: 350px; width: auto;"/>
+</p>
 
 ***
 
