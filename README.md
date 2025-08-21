@@ -37,6 +37,12 @@ Among the models, Prophet achieved the lowest RMSE, while LightGBM offered compe
 
 Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project report</a><br>
 
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/product_sales_plot.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/stl_decomposition_plots.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cv_fold_rmse_plot.png" width="100%"/>
+</p>
+
 ***
 
 ### Depression Prediction
@@ -81,7 +87,7 @@ Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Git
 <p align="center" >
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="99%"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" style="height: 245px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png"  style="height: 245px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png" style="height: 245px; width: auto;"/>
 </p>
 
 ***
