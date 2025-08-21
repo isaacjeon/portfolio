@@ -75,7 +75,10 @@ Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Git
 
 <p align="center" >
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" style="height: 300px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" style="height: 300px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png" style="height: 300px; width: auto;"/>
+</p>
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" width="100%"/>
 </p>
 
 ***
