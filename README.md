@@ -74,7 +74,7 @@ These results suggest that dimensionality reduction and clustering methods can s
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="98%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="99%"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" style="height: 245px; width: auto;"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png" style="height: 245px; width: auto;"/>
 </p>
