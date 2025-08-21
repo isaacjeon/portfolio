@@ -1,4 +1,4 @@
-A collection of data analytics and machine learning projects focused on exploratory analysis, predictive modeling, and dashboard development.
+*A collection of data analytics and machine learning projects focused on exploratory analysis, predictive modeling, and dashboard development.*
 
 ## Table of Contents
 
