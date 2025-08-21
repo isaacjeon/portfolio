@@ -4,8 +4,8 @@ A collection of data analytics and machine learning projects focused on explorat
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
   - [Student Depression Prediction](#student-depression-prediction) - binary classification of student mental health risk
-  - [SMS Spam Detection](#sms-spam-detection) - spam classification using dimensionality reduction and clustering
   - [News Classification](#news-classification) - topic classification of BBC news articles using NLP techniques
+  - [SMS Spam Detection](#sms-spam-detection) - spam classification using dimensionality reduction and clustering
 
 **[Tableau Dashboards](#tableau-dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
@@ -38,6 +38,14 @@ Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_bla
 
 ***
 
+### News Classification
+
+This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification. The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model at 97.0%. This level of performance suggests that the model could be effectively applied to automate the classification of text data for tasks such as content organization, filtering, or topic-based recommendation systems.
+
+Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
+
+***
+
 ### SMS Spam Detection
 
 This project involves the use of unsupervised learning techniques for dimensionality reduction in detecting SMS spam messages. The text data was first converted to a Bag-of-Words (BoW) representation, then transformed using three *dimensionality reduction* methods: **TruncatedSVD**, **Non-Negative Matrix Factorization (NMF)**, and **Uniform Manifold Approximation and Projection (UMAP)**. Each reduced dataset was evaluated using **Logistic Regression** for *classification* and **K-Means** for *clustering*.
@@ -47,14 +55,6 @@ Of these methods, NMF proved to be the most effective overall (precision = 98.3%
 These results suggest that dimensionality reduction and clustering methods can support not just spam detection, but also tasks such as topic discovery, pattern identification, content grouping visualization, and outlier detection.
 
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
-
-***
-
-### News Classification
-
-This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification. The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model at 97.0%. This level of performance suggests that the model could be effectively applied to automate the classification of text data for tasks such as content organization, filtering, or topic-based recommendation systems.
-
-Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 ## Tableau Dashboards
 
