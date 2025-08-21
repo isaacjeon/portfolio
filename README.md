@@ -56,13 +56,19 @@ The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model a
 
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/confusion_matrix_nmf.png" width="50%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/confusion_matrix_lsvc.png" width="50%"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" width="90%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" height="400px"/>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/confusion_matrix_nmf.png" height="195px"/><br>
+        <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/confusion_matrix_lsvc.png" height="195px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ***
 
