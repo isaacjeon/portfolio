@@ -56,10 +56,10 @@ The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model a
 
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
-<div align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_confusion_matrix.png" height="400px"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" height="400px"/>
-</div>
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_confusion_matrix.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" style="height: 350px; width: auto;"/>
+</p>
 
 ***
 
@@ -80,9 +80,9 @@ This project explores Brazilian e-commerce order data across several dimensions 
 
 Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/BrazilianE-Commerce_17547219521680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/brazilian_ecommerce_dashboard.png" width="100%"/>
-</div>
+</p>
 
 ***
 
@@ -91,6 +91,6 @@ This project builds a dashboard for visualization of Japan tourism data on a reg
 
 Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/japan_tourism_dashboard.png" width="100%"/>
-</div>
+</p>
