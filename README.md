@@ -47,8 +47,8 @@ The best-performing model was an SVM with a linear kernel, achieving a recall of
 Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" style="height: 350px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" width="47%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" width="52%"/>
 </p>
 
 ***
@@ -62,8 +62,8 @@ The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model a
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_confusion_matrix.png" style="height: 350px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" width="67%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_confusion_matrix.png" width="32%"/>
 </p>
 
 ***
@@ -79,9 +79,9 @@ These results suggest that dimensionality reduction and clustering methods can s
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="99%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" style="height: 245px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png" style="height: 245px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" width="51%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png"  width="48%"/>
 </p>
 
 ***
