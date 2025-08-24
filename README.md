@@ -3,7 +3,7 @@
 ## Table of Contents
 
 **[Machine Learning Projects](#machine-learning-projects)**
-  - [Product Sales Forecasting](#product-sales-forecasting) - time series forecasting of retail product sales
+  - [Retail Product Sales Forecasting](#retail-product-sales-forecasting) - time series forecasting of retail product sales
   - [Depression Prediction](#depression-prediction) - identification of mental health risk with binary classification
   - [News Classification](#news-classification) - categorization of BBC news articles using NLP techniques
   - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
@@ -25,7 +25,7 @@ Tools, models, and techniques specific to each project are mentioned in their re
 
 ***
 
-### Product Sales Forecasting
+### Retail Product Sales Forecasting
 
 This project focuses on forecasting daily sales of a specific style of work pants using real-world sales data from a small clothing retailer. The goal was to identify trends, seasonality, and other patterns in the data to forecast sales up to 28 days ahead.
 
