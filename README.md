@@ -5,7 +5,7 @@
 **[Machine Learning Projects](#machine-learning-projects)**
   - [Retail Product Sales Forecasting](#retail-product-sales-forecasting) - time series forecasting of retail product sales
   - [Depression Prediction](#depression-prediction) - identification of mental health risk with binary classification
-  - [News Classification](#news-classification) - categorization of BBC news articles using NLP techniques
+  - [News Article Classification](#news-article-classification) - categorization of BBC news articles using NLP techniques
   - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
 
 **[Tableau Dashboards](#tableau-dashboards)**
@@ -59,7 +59,7 @@ Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_bla
 
 ***
 
-### News Classification
+### News Article Classification
 
 This project builds models to classify BBC news articles into their correct categories using natural language processing techniques. The text data was processed using **TF-IDF vectorization**, and two models were trained: **Non-negative Matrix Factorization (NMF)** for topic modeling and a **Linear Support Vector Classifier (SVC)** for supervised classification.
 
