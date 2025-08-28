@@ -11,7 +11,7 @@
 **[Dashboards](#dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
   - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
-  - [Student Progress Report]
+  - [Student Progress Report](#student-progress-report) - Dashboard for tracking student performance and learning trends in a middle school math class
 
 # Machine Learning Projects
 
@@ -117,7 +117,7 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 
 ***
 
-### Student Progress Dashboard
+### Student Progress Report
 A *Google Sheets* dashboard built to track individual student as well as overall class performance in a middle school math class (Algebra 1). The tool includes anonymized data for four students and provides dynamic visualizations of homework and assessment scores across chapters and time. Features include automatic grade calculations, trend charts, and filters for analyzing individual or class-wide performance over time. Additional functions allow users to search the class schedule by date to look up assignments or filter by chapter to view chapter-specific scores and section topics.
 
 This dashboard is a modified version that I made for personal use in classroom data analysis. It enabled me to easily identify dips in individual student performance by comparing their results to class averages across specific topics, allowing me to pinpoint concepts that a specific student or the overall class found particularly challenging or excelled in. Additionally, by observing performance trends over time I could detect periods of relatively poor results compared to their usual performance, possibly indicating an issue stemming from outside the classroom. The information gained from this analysis would then be used to adjust classroom instruction and provide targeted support accordingly.
