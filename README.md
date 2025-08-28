@@ -8,9 +8,10 @@
   - [News Article Classification](#news-article-classification) - categorization of BBC news articles using NLP techniques
   - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
 
-**[Tableau Dashboards](#tableau-dashboards)**
+**[Dashboards](#dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
   - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
+  - [Student Progress Report]
 
 # Machine Learning Projects
 
@@ -92,7 +93,7 @@ Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Git
 
 ***
 
-# Tableau Dashboards
+# Dashboards
 
 ### Brazilian E-Commerce
 This project explores Brazilian e-commerce order data across several dimensions including customer and seller demographics, product categories, payment types, delivery logistics, and review scores. It utilizes **SQL** for data structuring, cleaning, and exploratory data analysis (EDA), and **Tableau** for building interactive dashboards for visualizing monthly sales performance, regional trends, delivery times, and customer purchasing behavior and satisfaction to uncover operational and marketing insights.
@@ -106,12 +107,25 @@ Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank
 ***
 
 ### Japan Tourism
-This project builds a dashboard for visualization of Japan tourism data on a regional level collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay. The original Excel file was cleaned and restructured, before importing the data into **MySQL**. The tables were then unified and prepared for exploration using **Tableau**. The interactive dashboard enables identification and filtering of characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions.
+This project builds a Tableau dashboard for visualization of Japan tourism data on a regional level collected across various categories (e.g., Accommodation Type, Nationality, Length of Stay. The original Excel file was cleaned and restructured, before importing the data into **MySQL**. The tables were then unified and prepared for exploration using **Tableau**. The interactive dashboard enables identification and filtering of characteristics of tourists that visit each region of Japan, which may provide some insight into which demographics each region may or may not appeal to and can allow for more informative tourism advertising such as in promotion of travel services and attractions.
 
 Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/japan_tourism_dashboard.png" width="100%"/>
+</p>
+
+***
+
+### Student Progress Dashboard
+A *Google Sheets* dashboard built to track individual student as well as overall class performance in a middle school math class (Algebra 1). The tool includes anonymized data for four students and provides dynamic visualizations of homework and assessment scores across chapters and time. Features include automatic grade calculations, trend charts, and filters for analyzing individual or class-wide performance over time. Additional functions allow users to search the class schedule by date to look up assignments or filter by chapter to view chapter-specific scores and section topics.
+
+This dashboard is a modified version that I made for personal use in classroom data analysis. It enabled me to easily identify dips in individual student performance by comparing their results to class averages across specific topics, allowing me to pinpoint concepts that a specific student or the overall class found particularly challenging or excelled in. Additionally, by observing performance trends over time I could detect periods of relatively poor results compared to their usual performance, possibly indicating an issue stemming from outside the classroom. The information gained from this analysis would then be used to adjust classroom instruction and provide targeted support accordingly.
+
+Links: <a href="https://docs.google.com/spreadsheets/d/18JRLqKFpRUV40HY5y26woV0SE-YZLjCWwkF2F0uZEls/edit?usp=sharing" target="_blank">Google Sheets</a><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
 </p>
 
 ***
