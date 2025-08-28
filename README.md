@@ -11,7 +11,7 @@
 **[Dashboards](#dashboards)**
   - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
   - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
-  - [Student Progress Report](#student-progress-report) - Dashboard for tracking student performance and learning trends in a middle school math class
+  - [Student Progress Report](#student-progress-report) - dashboard for tracking student performance and learning trends in a middle school math class
 
 # Machine Learning Projects
 
