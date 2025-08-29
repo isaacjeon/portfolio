@@ -126,6 +126,8 @@ Links: <a href="https://docs.google.com/spreadsheets/d/18JRLqKFpRUV40HY5y26woV0S
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_2.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_3.png" width="45%"/>
 </p>
 
 ***
