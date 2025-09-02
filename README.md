@@ -36,7 +36,10 @@ The data revealed a nonlinear trend: a significant increase in sales between 202
 
 Among the models, Prophet achieved the lowest RMSE, while LightGBM offered competitive performance with faster training times. An ensemble of all four models further yielded improved and more stable results. Although daily-level forecasting proved challenging with a limited dataset, aggregating to weekly or bi-weekly levels produced more reliable results, demonstrating that forecasting remains viable even for small retailers with limited data resources.
 
-Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>, <a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project report</a><br>
+Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>,
+<a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project report</a>,
+<a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_slides.pdf" target="_blank">PowerPoint slides</a>
+<br>
 
 <p align="center" >
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/product_sales_plot.png" width="100%"/>
