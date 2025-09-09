@@ -114,21 +114,9 @@ This project builds a Tableau dashboard for visualization of Japan tourism data 
 
 Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
-<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/japan_tourism_dashboard.png" width="100%"/>
 </p>
--->
-
-<div class='tableauPlaceholder' id='viz1757456990714' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JapanTourismbyPrefectureRegion&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
-  var divElement = document.getElementById('viz1757456990714');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='1200px';vizElement.style.height='827px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 
 ***
 
