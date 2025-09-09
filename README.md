@@ -131,8 +131,8 @@ Links: <a href="https://docs.google.com/spreadsheets/d/18JRLqKFpRUV40HY5y26woV0S
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
 </p>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_2.png" width="45%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_3.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_2.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_3.png" width="48%"/>
 </div>
 
 ***
