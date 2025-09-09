@@ -120,7 +120,15 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 </p>
 -->
 
-<div class='tableauPlaceholder' id='viz1757456990714' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JapanTourismbyPrefectureRegion&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1757456990714');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1757456990714' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JapanTourismbyPrefectureRegion&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JapanTourismbyPrefectureRegion&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js">
+  var divElement = document.getElementById('viz1757456990714');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1200px';vizElement.style.height='827px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ***
 
@@ -132,7 +140,6 @@ This dashboard is a modified version that I made for personal use in classroom d
 Links: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
 
 <p align="center">
-  <iframe src="https://drive.google.com/file/d/yourfileid/preview](https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing)" width="100%"></iframe>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
 </p>
 <div style="display: flex; justify-content: space-between;">
