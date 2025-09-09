@@ -125,7 +125,7 @@ A **Google Sheets** dashboard built to track individual student as well as overa
 
 This dashboard is a modified version that I made for personal use in classroom data analysis. It enabled me to easily identify dips in individual student performance by comparing their results to class averages across specific topics, allowing me to pinpoint concepts that a specific student or the overall class found particularly challenging or excelled in. Additionally, by observing performance trends over time I could detect periods of relatively poor results compared to their usual performance, possibly indicating an issue stemming from outside the classroom. The information gained from this analysis would then be used to adjust classroom instruction and provide targeted support accordingly.
 
-Links: <a href="https://docs.google.com/spreadsheets/d/18JRLqKFpRUV40HY5y26woV0SE-YZLjCWwkF2F0uZEls/edit?usp=sharing" target="_blank">Google Sheets</a><br>
+Links: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
