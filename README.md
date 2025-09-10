@@ -37,14 +37,14 @@ The data revealed a nonlinear trend: a significant increase in sales between 202
 Among the models, Prophet achieved the lowest RMSE, while LightGBM offered competitive performance with faster training times. An ensemble of all four models further yielded improved and more stable results. Although daily-level forecasting proved challenging with a limited dataset, aggregating to weekly or bi-weekly levels produced more reliable results, demonstrating that forecasting remains viable even for small retailers with limited data resources.
 
 Links: <a href="https://github.com/isaacjeon/product_sales_forecasting" target="_blank">Github repository</a>,
-<a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_report.pdf" target="_blank">Project report</a>,
-<a href="https://isaacjeon.github.io/portfolio/assets/sales_forecasting_slides.pdf" target="_blank">PowerPoint slides</a>
+<a href="https://isaacjeon.github.io/portfolio/assets/rps_forecasting/sales_forecasting_report.pdf" target="_blank">Project report</a>,
+<a href="https://isaacjeon.github.io/portfolio/assets/rps_forecasting/sales_forecasting_slides.pdf" target="_blank">PowerPoint slides</a>
 <br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/product_sales_plot.png" width="100%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/stl_decomposition_plots.png" width="100%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cv_fold_rmse_plot.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/rps_forecasting/product_sales_plot.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/rps_forecasting/stl_decomposition_plots.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/rps_forecasting/cv_fold_rmse_plot.png" width="100%"/>
 </p>
 
 ***
@@ -57,8 +57,8 @@ The best-performing model was an SVM with a linear kernel, achieving a recall of
 Links: <a href="https://github.com/isaacjeon/depression-prediction" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/depression-prediction/blob/main/depression-prediction.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/correlation_heatmap.png" style="height: 265px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/precision_recall_curve.png" style="height: 265px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/depression_prediction/correlation_heatmap.png" style="height: 265px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/depression_prediction/precision_recall_curve.png" style="height: 265px; width: auto;"/>
 </p>
 
 ***
@@ -72,8 +72,8 @@ The LinearSVC model achieved an accuracy of 98.1%, outperforming the NMF model a
 Links: <a href="https://github.com/isaacjeon/news_classification" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/news_classification/blob/main/bbc-news-classification-nmf-and-linearsvc.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/word_clouds.png" style="height: 350px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_confusion_matrix.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_classification/word_clouds.png" style="height: 350px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/news_classification/confusion_matrix.png" style="height: 350px; width: auto;"/>
 </p>
 
 ***
@@ -89,9 +89,9 @@ These results suggest that dimensionality reduction and clustering methods can s
 Links: <a href="https://github.com/isaacjeon/spam_detection" target="_blank">Github repository</a>, <a href="https://nbviewer.org/github/isaacjeon/spam_detection/blob/main/sms-spam-detection.ipynb" target="_blank">Jupyter Notebook</a><br>
 
 <p align="center" >
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/nmf_clusters.png" width="99%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_confusion_matrix.png" style="height: 245px; width: auto;"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/cluster_texts.png" style="height: 245px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_detection/nmf_clusters.png" width="99%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_detection/confusion_matrix.png" style="height: 245px; width: auto;"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/spam_detection/cluster_texts.png" style="height: 245px; width: auto;"/>
 </p>
 
 ***
@@ -104,7 +104,7 @@ This project explores Brazilian e-commerce order data across several dimensions 
 Links: <a href="https://github.com/isaacjeon/brazilian_ecommerce" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/BrazilianE-Commerce_17547219521680/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/brazilian_ecommerce_dashboard.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/brazilian_ecommerce.png" width="100%"/>
 </p>
 
 ***
@@ -115,7 +115,7 @@ This project builds a Tableau dashboard for visualization of Japan tourism data 
 Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target="_blank">Github repository</a>, <a href="https://public.tableau.com/views/JapanTourismbyPrefectureRegion/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public dashboard</a><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/japan_tourism_dashboard.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/japan_tourism.png" width="100%"/>
 </p>
 
 ***
@@ -128,11 +128,11 @@ This dashboard is a modified version that I made for personal use in classroom d
 Links: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress.png" width="100%"/>
 </p>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_2.png" width="48%"/>
-  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/student_progress_dashboard_3.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress_2.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress_3.png" width="48%"/>
 </div>
 
 ***
