@@ -126,10 +126,14 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 
 Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Excel dashboard (OneDrive)</a>
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_overview.png" width="100%"/>
+</p>
+<div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_top_rankings.png" width="48%"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_regions.png" width="48%"/>
+</div>
+<div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_platforms.png" width="48%"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_publishers.png" width="48%"/>
 </div>
@@ -143,8 +147,10 @@ This dashboard is a modified version that I made for personal use in classroom d
 
 Link: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress.png" width="100%"/>
+</p>
+<div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress_2.png" width="48%"/>
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress_3.png" width="48%"/>
 </div>
