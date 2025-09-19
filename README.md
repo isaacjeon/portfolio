@@ -124,7 +124,7 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 ### Video Game Sales
 (In Progress)
 
-Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Interactive Dashboard and Analysis</a>
+Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Excel Dashboard (OneDrive)</a>
 
 ***
 
