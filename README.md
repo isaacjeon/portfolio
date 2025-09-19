@@ -124,7 +124,7 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 ### Video Game Sales
 (In Progress)
 
-Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Excel Dashboard (OneDrive)</a>
+Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Excel dashboard (OneDrive)</a>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_overview.png" width="100%"/>
@@ -141,7 +141,7 @@ A **Google Sheets** dashboard built to track individual student as well as overa
 
 This dashboard is a modified version that I made for personal use in classroom data analysis. It enabled me to easily identify dips in individual student performance by comparing their results to class averages across specific topics, allowing me to pinpoint concepts that a specific student or the overall class found particularly challenging or excelled in. Additionally, by observing performance trends over time I could detect periods of relatively poor results compared to their usual performance, possibly indicating an issue stemming from outside the classroom. The information gained from this analysis would then be used to adjust classroom instruction and provide targeted support accordingly.
 
-Links: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
+Link: <a href="https://docs.google.com/spreadsheets/d/12hIpjGhTnmD9ZKbscXcVHtwQaXi4VNs7M-qvDtqwgv4/edit?usp=sharing" target="_blank">Google Sheets</a><br>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/student_progress.png" width="100%"/>
