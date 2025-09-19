@@ -9,9 +9,10 @@
   - [SMS Spam Detection](#sms-spam-detection) - detection of spam messages through dimensionality reduction and clustering
 
 **[Dashboards](#dashboards)**
-  - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions, including location, payment types, and review scores
-  - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories
-  - [Student Progress Report](#student-progress-report) - dashboard for tracking student performance and learning trends in a middle school math class
+  - [Brazilian E-Commerce](#brazilian-e-commerce) - analysis of Brazilian e-commerce orders across multiple dimensions including location, payment types, and review scores with SQL and Tableau
+  - [Japan Tourism](#japan-tourism) - regional segmentation of tourism data in Japan across various categories with SQL and Tableau
+  - [Video Game Sales](#video-game-sales) - data cleaning and dashboarding for video game sales analysis with Excel
+  - [Student Progress Report](#student-progress-report) - dashboard for tracking student performance and learning trends in a middle school math class using Google Sheets
 
 # Machine Learning Projects
 
@@ -117,6 +118,13 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 <p align="center">
   <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/japan_tourism.png" width="100%"/>
 </p>
+
+***
+
+### Video Game Sales
+(In Progress)
+
+Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Interactive Dashboard and Analysis</a>
 
 ***
 
