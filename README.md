@@ -126,6 +126,18 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 
 Link: <a href="https://1drv.ms/x/c/f960248c0229dc7f/IQQowX7H4zmUTpzUNG8y4-SKAfwjAv9dlObrP4dTqiCwaro?em=2&AllowTyping=True&ActiveCell='Dashboard'!B3&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True" target="_blank">Excel Dashboard (OneDrive)</a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_overview.png" width="100%"/>
+</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_top_rankings.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_regions.png" width="48%"/>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_platforms.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/isaacjeon/portfolio/refs/heads/main/assets/dashboard/vgsales/vgsales_publishers.png" width="48%"/>
+</div>
+
 ***
 
 ### Student Progress Report
