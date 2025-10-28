@@ -122,8 +122,6 @@ Links: <a href="https://github.com/isaacjeon/japan-tourism-segmentation" target=
 ***
 
 ### Video Game Sales
-(In Progress)
-
 This interactive dashboard, built in **Excel**, offers a comprehensive overview of global video game sales. It enables users to identify top-selling games, platforms, publishers, and genres, while also providing visual comparisons across regions, platforms, and publishers. These insights can help stakeholders analyze performance trends and support strategic decision-making in areas such as marketing, distribution, and product planning.
 
 The project involves the use of Excel in data cleaning, visualization, and dynamic reporting through features like pivot tables, slicers, and charts.
